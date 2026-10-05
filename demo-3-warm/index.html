@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Hair Salon – Warm</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+
+        <nav class="navbar">
+
+            <a href="#home" class="logo">
+                HAIR SALON
+            </a>
+
+            <ul class="nav-links" id="nav-links">
+                <li><a href="#home" data-i18n="navHome">Home</a></li>
+                <li><a href="#services" data-i18n="navServices">Leistungen</a></li>
+                <li><a href="#about" data-i18n="navAbout">Über uns</a></li>
+                <li><a href="#gallery" data-i18n="navGallery">Galerie</a></li>
+                <li><a href="#contact" data-i18n="navContact">Kontakt</a></li>
+            </ul>
+
+            <div class="nav-right">
+
+                <div class="language-switch">
+                    <button id="de-btn" class="lang-btn active">DE</button>
+                    <span>|</span>
+                    <button id="en-btn" class="lang-btn">EN</button>
+                </div>
+
+                <button class="menu-toggle" id="menu-toggle" aria-label="Menu">
+                    ☰
+                </button>
+
+            </div>
+
+        </nav>
+
+    </header>
+
+
+    <main>
+
+        <!-- HERO -->
+
+        <section id="home" class="hero">
+
+            <div class="hero-content">
+
+                <p class="small-title" data-i18n="heroSmall">
+                    WILLKOMMEN
+                </p>
+
+                <h1 data-i18n="heroTitle">
+                    Schönes Haar. Gutes Gefühl.
+                </h1>
+
+                <p class="hero-text" data-i18n="heroText">
+                    Persönliche Beratung, entspannte Atmosphäre und ein Look,
+                    mit dem du dich wohlfühlst.
+                </p>
+
+                <a href="#contact"
+                   class="main-button"
+                   data-i18n="appointment">
+                    Termin vereinbaren
+                </a>
+
+            </div>
+
+            <div class="hero-image">
+                <img
+                    src="https://images.unsplash.com/photo-1562322140-8baeececf3df?auto=format&fit=crop&w=1200&q=85"
+                    alt="Friseursalon">
+            </div>
+
+        </section>
+
+
+        <!-- WELCOME STRIP -->
+
+        <section class="welcome-strip">
+
+            <p data-i18n="welcomeText">
+                Dein Moment. Dein Stil. Dein Salon.
+            </p>
+
+        </section>
+
+
+        <!-- SERVICES -->
+
+        <section id="services" class="services-section">
+
+            <div class="section-header">
+
+                <p class="small-title" data-i18n="servicesSmall">
+                    FÜR DICH
+                </p>
+
+                <h2 data-i18n="servicesTitle">
+                    Unsere Leistungen
+                </h2>
+
+                <p data-i18n="servicesIntro">
+                    Individuelle Pflege und Styling für deinen persönlichen Look.
+                </p>
+
+            </div>
+
+
+            <div class="services-grid">
+
+                <div class="service-card">
+                    <span>✂</span>
+
+                    <h3 data-i18n="haircutTitle">
+                        Haarschnitt
+                    </h3>
+
+                    <p data-i18n="haircutText">
+                        Schnitte, die zu dir, deinem Alltag und deinem Stil passen.
+                    </p>
+                </div>
+
+
+                <div class="service-card">
+                    <span>✦</span>
+
+                    <h3 data-i18n="colorTitle">
+                        Coloration
+                    </h3>
+
+                    <p data-i18n="colorText">
+                        Individuelle Farben und moderne Techniken für ein natürliches Ergebnis.
+                    </p>
+                </div>
+
+
+                <div class="service-card">
+                    <span>♡</span>
+
+                    <h3 data-i18n="stylingTitle">
+                        Styling
+                    </h3>
+
+                    <p data-i18n="stylingText">
+                        Für Alltag, besondere Anlässe und Momente, die in Erinnerung bleiben.
+                    </p>
+                </div>
+
+
+                <div class="service-card">
+                    <span>◇</span>
+
+                    <h3 data-i18n="careTitle">
+                        Haarpflege
+                    </h3>
+
+                    <p data-i18n="careText">
+                        Professionelle Pflege für gesundes, weiches und glänzendes Haar.
+                    </p>
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ABOUT -->
+
+        <section id="about" class="about-section">
+
+            <div class="about-image">
+                <img
+                    src="https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=1000&q=85"
+                    alt="Friseursalon">
+            </div>
+
+            <div class="about-content">
+
+                <p class="small-title" data-i18n="aboutSmall">
+                    MIT HERZ & LEIDENSCHAFT
+                </p>
+
+                <h2 data-i18n="aboutTitle">
+                    Hier geht es um dich.
+                </h2>
+
+                <p data-i18n="aboutText1">
+                    Jeder Mensch ist anders. Deshalb nehmen wir uns Zeit,
+                    deine Wünsche und deinen persönlichen Stil kennenzulernen.
+                </p>
+
+                <p data-i18n="aboutText2">
+                    Unser Ziel ist nicht nur eine schöne Frisur,
+                    sondern dass du den Salon mit einem guten Gefühl verlässt.
+                </p>
+
+                <p class="about-note" data-i18n="aboutNote">
+                    Die persönliche Geschichte der Saloninhaberin wird später ergänzt.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- GALLERY -->
+
+        <section id="gallery" class="gallery-section">
+
+            <div class="section-header">
+
+                <p class="small-title" data-i18n="gallerySmall">
+                    EINBLICKE
+                </p>
+
+                <h2 data-i18n="galleryTitle">
+                    Unsere Galerie
+                </h2>
+
+                <p data-i18n="galleryText">
+                    Ein kleiner Einblick in unsere Arbeit und Atmosphäre.
+                </p>
+
+            </div>
+
+            <div class="gallery-grid">
+
+                <div class="gallery-item">
+                    <img
+                        src="https://images.unsplash.com/photo-1559599101-f09722fb4948?auto=format&fit=crop&w=900&q=85"
+                        alt="Frisur">
+                </div>
+
+                <div class="gallery-item tall">
+                    <img
+                        src="https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=900&q=85"
+                        alt="Salon">
+                </div>
+
+                <div class="gallery-item">
+                    <img
+                        src="https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?auto=format&fit=crop&w=900&q=85"
+                        alt="Hair styling">
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- CONTACT -->
+
+        <section id="contact" class="contact-section">
+
+            <div class="contact-header">
+
+                <p class="small-title" data-i18n="contactSmall">
+                    WIR FREUEN UNS AUF DICH
+                </p>
+
+                <h2 data-i18n="contactTitle">
+                    Dein nächster Termin wartet.
+                </h2>
+
+                <p data-i18n="contactText">
+                    Ruf uns an oder besuche uns direkt im Salon.
+                </p>
+
+            </div>
+
+
+            <div class="contact-grid">
+
+                <div class="contact-card">
+
+                    <h3 data-i18n="address">
+                        Adresse
+                    </h3>
+                    <a
+   href="https://www.google.com/maps/search/?api=1&query=Reblingstra%C3%9Fe+4,+79227+Schallstadt"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="address-link"
+>
+                        Reblingstraße 4<br> 
+                        79227 Schallstadt
+                </a>
+
+                </div>
+
+
+                <div class="contact-card">
+
+                    <h3 data-i18n="phone">
+                        Telefon
+                    </h3>
+
+                    <a href="tel:+49 7664 9614172">
+                        07664 9614172
+                    </a>
+
+                </div>
+
+
+                <div class="contact-card">
+
+                    <h3 data-i18n="openingHours">
+                        Öffnungszeiten
+                    </h3>
+
+                    <p>
+                        <span data-i18n="tuesdayFriday">
+                            Dienstag – Freitag
+                        </span>
+                        <br>
+                        09:00 – 19:00
+                    </p>
+
+                    <p>
+                        <span data-i18n="saturday">
+                            Samstag
+                        </span>
+                        <br>
+                        09:00 – 14:00
+                    </p>
+
+                    <p>
+                        <span data-i18n="sundayMonday">
+                            Sonntag – Montag
+                        </span>
+                        <br>
+
+                        <span data-i18n="closed">
+                            Geschlossen
+                        </span>
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <a href="tel:+49 7664 9614172"
+               class="contact-button"
+               data-i18n="appointment">
+                Termin vereinbaren
+            </a>
+
+        </section>
+
+    </main>
+
+
+    <footer>
+
+        <strong>HAIR SALON</strong>
+
+        <p>© 2026 Hair Salon</p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
