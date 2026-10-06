@@ -23,21 +23,21 @@ const translations = {
         servicesIntro:
             "Individuelle Pflege und Styling für deinen persönlichen Look.",
 
-        haircutTitle: "Haarschnitt",
-        haircutText:
-            "Schnitte, die zu dir, deinem Alltag und deinem Stil passen.",
+      haircutTitle: "Haarschnitt",
+haircutText:
+    "Individuelle und typgerechte Haarschnitte, präzise abgestimmt auf deinen persönlichen Stil.",
 
-        colorTitle: "Coloration",
-        colorText:
-            "Individuelle Farben und moderne Techniken für ein natürliches Ergebnis.",
+colorTitle: "Blond & Balayage",
+colorText:
+    "Exklusive Blondtechniken und Balayage für elegante und harmonische Ergebnisse.",
 
-        stylingTitle: "Styling",
-        stylingText:
-            "Für Alltag, besondere Anlässe und Momente, die in Erinnerung bleiben.",
+stylingTitle: "Strähnentechniken",
+stylingText:
+    "Moderne Strähnentechniken individuell auf Haar, Typ und Persönlichkeit abgestimmt.",
 
-        careTitle: "Haarpflege",
-        careText:
-            "Professionelle Pflege für gesundes, weiches und glänzendes Haar.",
+careTitle: "Herrenhaarschnitt",
+careText:
+    "Präzise und stilvolle Herrenhaarschnitte, bei denen jedes Detail zählt.",
 
         aboutSmall: "MIT HERZ & LEIDENSCHAFT",
         aboutTitle: "Hier geht es um dich.",
@@ -96,20 +96,20 @@ const translations = {
             "Individual care and styling for your personal look.",
 
         haircutTitle: "Haircut",
-        haircutText:
-            "Haircuts that suit you, your everyday life and your style.",
+haircutText:
+    "Individual haircuts precisely tailored to your personal style and features.",
 
-        colorTitle: "Coloring",
-        colorText:
-            "Individual colors and modern techniques for a natural result.",
+colorTitle: "Blonde & Balayage",
+colorText:
+    "Exclusive blonde techniques and balayage for elegant and harmonious results.",
 
-        stylingTitle: "Styling",
-        stylingText:
-            "For everyday life, special occasions and memorable moments.",
+stylingTitle: "Highlighting Techniques",
+stylingText:
+    "Modern highlighting techniques individually tailored to your hair, features and personality.",
 
-        careTitle: "Hair Care",
-        careText:
-            "Professional care for healthy, soft and shiny hair.",
+careTitle: "Men's Haircut",
+careText:
+    "Precise and stylish men's haircuts where every detail matters.",
 
         aboutSmall: "WITH HEART & PASSION",
         aboutTitle: "It's all about you.",

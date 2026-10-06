@@ -27,30 +27,30 @@ closed: "Geschlossen",
         servicesSmall: "WAS WIR LIEBEN",
         servicesTitle: "Unsere Leistungen",
 
-        haircutTitle: "Haarschnitt",
-        haircutText:
-            "Moderne und klassische Schnitte individuell auf dich abgestimmt.",
+       haircutTitle: "Haarschnitt",
+haircutText:
+    "Individuelle und typgerechte Haarschnitte, präzise abgestimmt auf deinen persönlichen Stil.",
 
-        colorTitle: "Coloration",
-        colorText:
-            "Farbe, Highlights und moderne Techniken für deinen persönlichen Look.",
+colorTitle: "Blond & Balayage",
+colorText:
+    "Exklusive Blondtechniken und Balayage für elegante und harmonische Ergebnisse.",
 
-        stylingTitle: "Styling",
-        stylingText:
-            "Styling für Alltag, Events und besondere Momente.",
+stylingTitle: "Strähnentechniken",
+stylingText:
+    "Moderne Strähnentechniken individuell auf Haar, Typ und Persönlichkeit abgestimmt.",
 
-        careTitle: "Haarpflege",
-        careText:
-            "Professionelle Pflege für gesundes und glänzendes Haar.",
+careTitle: "Herrenhaarschnitt",
+careText:
+    "Präzise und stilvolle Herrenhaarschnitte, bei denen jedes Detail zählt.",
 
-        aboutSmall: "SCHÖNHEIT IST PERSÖNLICH",
-        aboutTitle: "Mehr als nur ein Haarschnitt.",
-        aboutText:
-            "Wir nehmen uns Zeit, deinen Stil, deine Wünsche und dein Haar kennenzulernen. So entsteht ein Look, der nicht nur gut aussieht, sondern sich auch richtig anfühlt.",
+aboutSmall: "ERFAHRUNG. PRÄZISION. INDIVIDUALITÄT.",
+aboutTitle: "Mehr als 15 Jahre Leidenschaft.",
 
-        aboutNote:
-            "Der persönliche Text der Saloninhaberin wird später ergänzt.",
+aboutText:
+    "Als Friseurmeisterin und Inhaberin meines eigenen Salons verbinde ich langjährige Erfahrung mit dem Anspruch, individuelle Looks zu kreieren, die Persönlichkeit ausstrahlen. Meine besondere Leidenschaft gilt Blondtechniken, Balayage und modernen Strähnentechniken.",
 
+aboutNote:
+    "Luxus bedeutet Qualität, Individualität und das Gefühl, genau den richtigen Stil gefunden zu haben.",
         gallerySmall: "INSPIRATION",
         galleryTitle: "Selected Looks",
 
@@ -88,28 +88,29 @@ closed: "Closed",
         servicesTitle: "Our Services",
 
         haircutTitle: "Haircut",
-        haircutText:
-            "Modern and classic cuts individually tailored to you.",
+haircutText:
+    "Individual haircuts precisely tailored to your personal style and features.",
 
-        colorTitle: "Coloring",
-        colorText:
-            "Color, highlights and modern techniques for your personal look.",
+colorTitle: "Blonde & Balayage",
+colorText:
+    "Exclusive blonde techniques and balayage for elegant and harmonious results.",
 
-        stylingTitle: "Styling",
-        stylingText:
-            "Professional styling for everyday life, events and special moments.",
+stylingTitle: "Highlighting Techniques",
+stylingText:
+    "Modern highlighting techniques individually tailored to your hair, features and personality.",
 
-        careTitle: "Hair Care",
-        careText:
-            "Professional care for healthy and shiny hair.",
+careTitle: "Men's Haircut",
+careText:
+    "Precise and stylish men's haircuts where every detail matters.",
 
-        aboutSmall: "BEAUTY IS PERSONAL",
-        aboutTitle: "More than just a haircut.",
-        aboutText:
-            "We take the time to understand your style, your wishes and your hair. The result is a look that not only looks good, but feels right too.",
+aboutSmall: "EXPERIENCE. PRECISION. INDIVIDUALITY.",
+aboutTitle: "More than 15 years of passion.",
 
-        aboutNote:
-            "The salon owner's personal story will be added later.",
+aboutText:
+    "As a master hairdresser and owner of my own salon, I combine many years of experience with the goal of creating individual looks that express personality. My particular passion lies in blonde techniques, balayage and modern highlighting techniques.",
+
+aboutNote:
+    "Luxury means quality, individuality and the feeling of having found exactly the right style.",
 
         gallerySmall: "INSPIRATION",
         galleryTitle: "Selected Looks",

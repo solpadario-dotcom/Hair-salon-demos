@@ -14,38 +14,45 @@ const translations = {
         appointment: "Termin vereinbaren",
         appointmentNow: "Jetzt Termin vereinbaren",
 
-        servicesSmall: "SCHÖNHEIT BEGINNT MIT DEINEM STIL",
-        servicesTitle: "Unsere Leistungen",
-        servicesIntro:
-            "Individuelle Beratung und professionelle Haarpflege für einen Look, der zu dir passt.",
+        servicesSmall: "HANDWERK. STIL. PRÄZISION.",
+servicesTitle: "Unsere Leistungen",
 
-        haircutTitle: "Haarschnitt",
-        haircutText:
-            "Individuelle Schnitte passend zu deinem Stil, Typ und deinen Wünschen.",
+servicesIntro:
+    "Individuelle Beratung und präzises Friseurhandwerk für einen Look, der zu dir und deiner Persönlichkeit passt.",
 
-        colorTitle: "Coloration",
-        colorText:
-            "Moderne Farbtechniken und individuelle Farbergebnisse für deinen Look.",
+haircutTitle: "Haarschnitt",
+haircutText:
+    "Individuelle und typgerechte Haarschnitte, präzise abgestimmt auf deinen persönlichen Stil.",
 
-        stylingTitle: "Styling",
-        stylingText:
-            "Professionelles Styling für Alltag, besondere Momente und Events.",
+blondeTitle: "Blond & Balayage",
+blondeText:
+    "Exklusive Blondtechniken und Balayage für elegante und harmonische Ergebnisse.",
 
-        careTitle: "Haarpflege",
-        careText:
-            "Pflege und Beratung für gesundes, glänzendes und schönes Haar.",
+highlightsTitle: "Strähnentechniken",
+highlightsText:
+    "Moderne Strähnentechniken individuell auf Haar, Typ und Persönlichkeit abgestimmt.",
 
-        aboutSmall: "PERSÖNLICH. MODERN. INDIVIDUELL.",
-        aboutTitle: "Über uns",
+menTitle: "Herrenhaarschnitt",
+menText:
+    "Präzise und stilvolle Herrenhaarschnitte, bei denen jedes Detail zählt.",
 
-        aboutText1:
-            "Jeder Mensch ist einzigartig – und genauso sollte auch sein Look sein.",
+        aboutSmall: "ERFAHRUNG. PRÄZISION. INDIVIDUALITÄT.",
+aboutTitle: "Über mich",
 
-        aboutText2:
-            "Mit persönlicher Beratung, Erfahrung und Leidenschaft schaffen wir Frisuren, die zu deiner Persönlichkeit und deinem Alltag passen.",
+aboutText1:
+    "Seit über 15 Jahren steht meine Arbeit für anspruchsvolles Friseurhandwerk, Ästhetik und höchste Präzision.",
 
-        aboutNote:
-            "Der persönliche Text der Saloninhaberin wird später ergänzt.",
+aboutText2:
+    "Als Friseurmeisterin und Inhaberin meines eigenen Salons verbinde ich langjährige Erfahrung mit dem Anspruch, individuelle Looks zu kreieren, die nicht nur schön sind, sondern Persönlichkeit ausstrahlen.",
+
+aboutText3:
+    "Meine besondere Leidenschaft gilt exklusiven Blondtechniken, Balayage und modernen Strähnentechniken. Dabei steht für mich nicht ein kurzfristiger Trend im Vordergrund, sondern ein harmonisches und individuell abgestimmtes Ergebnis.",
+
+aboutText4:
+    "Auch im Herrenbereich setze ich auf präzise, stilvolle und typgerechte Haarschnitte, bei denen jedes Detail zählt.",
+
+aboutQuote:
+    "Luxus bedeutet Qualität, Individualität und das Gefühl, genau den richtigen Stil gefunden zu haben.",
 
         gallerySmall: "UNSERE ARBEIT",
         galleryTitle: "Galerie",
@@ -69,6 +76,7 @@ const translations = {
 
         findUs: "FINDE UNS",
         openMaps: "In Google Maps öffnen"
+        
     },
 
 
@@ -86,39 +94,44 @@ const translations = {
         appointment: "Book an appointment",
         appointmentNow: "Book an appointment",
 
-        servicesSmall: "BEAUTY BEGINS WITH YOUR STYLE",
-        servicesTitle: "Our Services",
+        servicesSmall: "CRAFT. STYLE. PRECISION.",
+servicesTitle: "Our Services",
 
-        servicesIntro:
-            "Personal consultation and professional hair care for a look that suits you.",
+servicesIntro:
+    "Personal consultation and precise hairdressing for a look that suits you and your personality.",
 
-        haircutTitle: "Haircut",
-        haircutText:
-            "Individual haircuts tailored to your style, personality and wishes.",
+haircutTitle: "Haircut",
+haircutText:
+    "Individual haircuts precisely tailored to your personal style and features.",
 
-        colorTitle: "Coloring",
-        colorText:
-            "Modern coloring techniques and individual results created for your look.",
+blondeTitle: "Blonde & Balayage",
+blondeText:
+    "Exclusive blonde techniques and balayage for elegant and harmonious results.",
 
-        stylingTitle: "Styling",
-        stylingText:
-            "Professional styling for everyday life, special moments and events.",
+highlightsTitle: "Highlighting Techniques",
+highlightsText:
+    "Modern highlighting techniques individually tailored to your hair, features and personality.",
 
-        careTitle: "Hair Care",
-        careText:
-            "Professional care and advice for healthy, shiny and beautiful hair.",
+menTitle: "Men's Haircut",
+menText:
+    "Precise and stylish men's haircuts where every detail matters.",
+       aboutSmall: "EXPERIENCE. PRECISION. INDIVIDUALITY.",
+aboutTitle: "About me",
 
-        aboutSmall: "PERSONAL. MODERN. INDIVIDUAL.",
-        aboutTitle: "About us",
+aboutText1:
+    "For more than 15 years, my work has stood for high-quality hairdressing, aesthetics and precision.",
 
-        aboutText1:
-            "Every person is unique – and their look should be too.",
+aboutText2:
+    "As a master hairdresser and owner of my own salon, I combine many years of experience with the goal of creating individual looks that are not only beautiful, but also express personality.",
 
-        aboutText2:
-            "With personal consultation, experience and passion, we create hairstyles that suit your personality and everyday life.",
+aboutText3:
+    "My particular passion lies in exclusive blonde techniques, balayage and modern highlighting techniques. Rather than following short-lived trends, I focus on creating a harmonious result tailored to the individual.",
 
-        aboutNote:
-            "The salon owner's personal story will be added later.",
+aboutText4:
+    "I also place great emphasis on precise, stylish and individually tailored men's haircuts, where every detail matters.",
+
+aboutQuote:
+    "Luxury means quality, individuality and the feeling of having found exactly the right style.",
 
         gallerySmall: "OUR WORK",
         galleryTitle: "Gallery",
